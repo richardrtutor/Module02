@@ -1,0 +1,21 @@
+body {
+  background-color: rgba(255, 217, 0, 0.164);
+}
+
+* {
+  text-align: center;
+}
+
+.header {
+  max-width: 30%;
+  margin-left: 35%;
+  border-bottom-style: groove;
+}
+
+.info {
+  line-height: 2em;
+}
+
+.home_link {
+  text-align: left;
+}
